@@ -102,10 +102,12 @@
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Anushk255/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anushk255/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Anushk255/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anushk255/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -114,5 +116,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Anushk255/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anushk255/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
