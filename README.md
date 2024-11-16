@@ -13,6 +13,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anushk255/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Anushk255/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anushk255/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
