@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Anushk255/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0812-rotate-string](https://github.com/Anushk255/LeetCode/tree/master/0812-rotate-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anushk255/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Anushk255/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
