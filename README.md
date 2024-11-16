@@ -11,6 +11,7 @@
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anushk255/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Anushk255/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
 |  |
@@ -26,6 +27,7 @@
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anushk255/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -38,4 +40,16 @@
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Math
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
