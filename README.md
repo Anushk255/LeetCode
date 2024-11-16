@@ -8,6 +8,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Anushk255/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0812-rotate-string](https://github.com/Anushk255/LeetCode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anushk255/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anushk255/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2580-circular-sentence](https://github.com/Anushk255/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anushk255/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
@@ -129,4 +130,9 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Anushk255/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anushk255/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anushk255/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
