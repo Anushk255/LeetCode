@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anushk255/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anushk255/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anushk255/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Anushk255/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushk255/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -119,6 +121,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anushk255/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Anushk255/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
