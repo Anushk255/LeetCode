@@ -192,4 +192,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anushk255/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Anushk255/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
