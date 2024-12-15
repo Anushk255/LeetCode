@@ -29,6 +29,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anushk255/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Anushk255/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anushk255/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Anushk255/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/Anushk255/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Anushk255/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Anushk255/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Anushk255/LeetCode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/Anushk255/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Anushk255/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anushk255/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anushk255/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Anushk255/LeetCode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/Anushk255/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/Anushk255/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anushk255/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Anushk255/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
