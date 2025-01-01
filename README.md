@@ -9,6 +9,7 @@
 | [0812-rotate-string](https://github.com/Anushk255/LeetCode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anushk255/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Anushk255/LeetCode/tree/master/1304-longest-happy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Anushk255/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anushk255/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anushk255/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Anushk255/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anushk255/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Anushk255/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
