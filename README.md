@@ -45,6 +45,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/Anushk255/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Anushk255/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anushk255/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anushk255/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -208,6 +209,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anushk255/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anushk255/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -241,6 +243,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Anushk255/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Anushk255/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anushk255/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Anushk255/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -268,6 +271,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anushk255/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Anushk255/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Anushk255/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Anushk255/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anushk255/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -280,6 +284,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Anushk255/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Anushk255/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Anushk255/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Anushk255/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anushk255/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -395,4 +400,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anushk255/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
