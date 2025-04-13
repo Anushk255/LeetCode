@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
+| [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushk255/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -326,6 +327,7 @@
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Anushk255/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anushk255/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
