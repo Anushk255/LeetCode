@@ -163,6 +163,7 @@
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Anushk255/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushk255/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anushk255/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Anushk255/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,4 +440,8 @@
 | [0820-find-eventual-safe-states](https://github.com/Anushk255/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Anushk255/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anushk255/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Anushk255/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
