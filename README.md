@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/Anushk255/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Anushk255/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Anushk255/LeetCode/tree/master/0494-target-sum) |
@@ -168,6 +169,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Anushk255/LeetCode/tree/master/0135-candy) |
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Anushk255/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/Anushk255/LeetCode/tree/master/1304-longest-happy-string) |
