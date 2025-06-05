@@ -8,6 +8,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Anushk255/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0812-rotate-string](https://github.com/Anushk255/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Anushk255/LeetCode/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Anushk255/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anushk255/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Anushk255/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anushk255/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -438,6 +439,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Anushk255/LeetCode/tree/master/0684-redundant-connection) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Anushk255/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Anushk255/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
