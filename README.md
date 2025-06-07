@@ -32,6 +32,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anushk255/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anushk255/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anushk255/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anushk255/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Anushk255/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Array
@@ -142,6 +143,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anushk255/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anushk255/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anushk255/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [2509-minimize-xor](https://github.com/Anushk255/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anushk255/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anushk255/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushk255/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anushk255/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anushk255/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -371,6 +375,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anushk255/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Anushk255/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushk255/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
 |  |
