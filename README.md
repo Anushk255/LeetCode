@@ -168,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anushk255/LeetCode/tree/master/0002-add-two-numbers) |
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -340,6 +341,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anushk255/LeetCode/tree/master/0002-add-two-numbers) |
 | [1197-parsing-a-boolean-expression](https://github.com/Anushk255/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anushk255/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
@@ -463,4 +465,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anushk255/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Anushk255/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
