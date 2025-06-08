@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anushk255/LeetCode/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/Anushk255/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Anushk255/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -205,6 +206,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anushk255/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
 | [0952-word-subsets](https://github.com/Anushk255/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
