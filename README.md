@@ -102,6 +102,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anushk255/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Anushk255/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushk255/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anushk255/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
 | ------- |
