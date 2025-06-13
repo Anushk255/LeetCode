@@ -1,0 +1,43 @@
+class Solution {
+public:
+    bool canFormPairs(vector<int>& nums, int p_req, int maxDiff)
+    {
+        int pairs_formed = 0;
+        int i = 0;
+        int n = nums.size();
+        
+        while (i < n - 1) {
+            if (nums[i + 1] - nums[i] <= maxDiff) {
+                pairs_formed++;
+                i += 2;
+            } else {
+                i++;
+            }
+            if (pairs_formed >= p_req) {
+                return true;
+            }
+        }
+        
+        return pairs_formed >= p_req;
+    }
+
+    int minimizeMax(vector<int>& nums, int p) {
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+
+        if (p == 0) return 0;
+        int i = 0, j = nums[n-1] - nums[0];
+        int ans = j;
+        
+        while (i <= j) {
+            int mid = i + (j - i) / 2;
+            if (canFormPairs(nums, p, mid)) {
+                ans = mid;
+                j = mid - 1;
+            } else {
+                i = mid + 1;
+            }
+        }
+        return ans;  
+    }
+};
