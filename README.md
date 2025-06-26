@@ -74,6 +74,7 @@
 | [2089-maximum-matrix-sum](https://github.com/Anushk255/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Anushk255/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Anushk255/LeetCode/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anushk255/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Anushk255/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anushk255/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Anushk255/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -140,6 +141,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anushk255/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Anushk255/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anushk255/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anushk255/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Anushk255/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anushk255/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
