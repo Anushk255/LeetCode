@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Anushk255/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Anushk255/LeetCode/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anushk255/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anushk255/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Anushk255/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Anushk255/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -116,6 +117,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Anushk255/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anushk255/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Anushk255/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushk255/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anushk255/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Anushk255/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anushk255/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Anushk255/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -237,6 +240,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anushk255/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anushk255/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0952-word-subsets](https://github.com/Anushk255/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anushk255/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -262,6 +266,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Anushk255/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anushk255/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anushk255/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
