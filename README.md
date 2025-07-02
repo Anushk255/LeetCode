@@ -37,6 +37,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anushk255/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/Anushk255/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Anushk255/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Anushk255/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anushk255/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anushk255/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -303,6 +304,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/Anushk255/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Anushk255/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -445,6 +447,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Anushk255/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Anushk255/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushk255/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Anushk255/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anushk255/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
 |  |
