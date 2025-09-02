@@ -109,6 +109,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Anushk255/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushk255/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anushk255/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anushk255/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -191,6 +192,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anushk255/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushk255/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Anushk255/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Math
@@ -202,6 +204,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Anushk255/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anushk255/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushk255/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Anushk255/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anushk255/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -411,6 +414,7 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anushk255/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Anushk255/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Anushk255/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Anushk255/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
@@ -526,4 +530,8 @@
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Anushk255/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
