@@ -117,6 +117,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Anushk255/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Anushk255/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Anushk255/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushk255/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Anushk255/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Sliding Window
 |  |
@@ -161,6 +162,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Anushk255/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anushk255/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushk255/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Anushk255/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushk255/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Anushk255/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushk255/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
