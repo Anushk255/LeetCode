@@ -92,6 +92,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anushk255/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Anushk255/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Anushk255/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2540-minimum-common-value](https://github.com/Anushk255/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Anushk255/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushk255/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Anushk255/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -146,6 +147,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Anushk255/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Anushk255/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2540-minimum-common-value](https://github.com/Anushk255/LeetCode/tree/master/2540-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anushk255/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Anushk255/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -159,6 +161,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Anushk255/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Anushk255/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/Anushk255/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2540-minimum-common-value](https://github.com/Anushk255/LeetCode/tree/master/2540-minimum-common-value) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Anushk255/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Anushk255/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -269,6 +272,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Anushk255/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Anushk255/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2540-minimum-common-value](https://github.com/Anushk255/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushk255/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Anushk255/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anushk255/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
