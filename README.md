@@ -30,6 +30,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Anushk255/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Anushk255/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Anushk255/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushk255/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Anushk255/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anushk255/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anushk255/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -109,6 +110,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushk255/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Anushk255/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Anushk255/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushk255/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushk255/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Anushk255/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -276,6 +278,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Anushk255/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Anushk255/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anushk255/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushk255/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Anushk255/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Anushk255/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -507,6 +510,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Anushk255/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Anushk255/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anushk255/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anushk255/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
