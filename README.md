@@ -61,6 +61,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Anushk255/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Anushk255/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Anushk255/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushk255/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1345-jump-game-iv](https://github.com/Anushk255/LeetCode/tree/master/1345-jump-game-iv) |
 | [1396-count-servers-that-communicate](https://github.com/Anushk255/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anushk255/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -216,6 +217,7 @@
 | [0002-add-two-numbers](https://github.com/Anushk255/LeetCode/tree/master/0002-add-two-numbers) |
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Anushk255/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushk255/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Anushk255/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Anushk255/LeetCode/tree/master/2716-prime-subtraction-operation) |
