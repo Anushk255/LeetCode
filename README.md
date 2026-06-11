@@ -48,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anushk255/LeetCode/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/Anushk255/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Anushk255/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Anushk255/LeetCode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Anushk255/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Anushk255/LeetCode/tree/master/0494-target-sum) |
@@ -256,6 +257,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Anushk255/LeetCode/tree/master/0136-single-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anushk255/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anushk255/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Anushk255/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
