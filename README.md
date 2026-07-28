@@ -37,6 +37,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Anushk255/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Anushk255/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anushk255/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Anushk255/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Anushk255/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Anushk255/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Anushk255/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -216,6 +217,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Anushk255/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Anushk255/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Anushk255/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Anushk255/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anushk255/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -581,4 +583,8 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Anushk255/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Anushk255/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
