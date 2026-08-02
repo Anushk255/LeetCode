@@ -60,6 +60,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anushk255/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Anushk255/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Anushk255/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0877-stone-game](https://github.com/Anushk255/LeetCode/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Anushk255/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0952-word-subsets](https://github.com/Anushk255/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anushk255/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anushk255/LeetCode/tree/master/0002-add-two-numbers) |
 | [0670-maximum-swap](https://github.com/Anushk255/LeetCode/tree/master/0670-maximum-swap) |
+| [0877-stone-game](https://github.com/Anushk255/LeetCode/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Anushk255/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushk255/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Anushk255/LeetCode/tree/master/2050-count-good-numbers) |
@@ -341,6 +343,7 @@
 | ------- |
 | [0494-target-sum](https://github.com/Anushk255/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anushk255/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0877-stone-game](https://github.com/Anushk255/LeetCode/tree/master/0877-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/Anushk255/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Anushk255/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Anushk255/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -595,4 +598,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anushk255/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anushk255/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
